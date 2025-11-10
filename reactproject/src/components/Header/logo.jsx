@@ -12,7 +12,7 @@ const App= () => {
         </div>
 
       {/* Logo Text */}
-    <h1 className="text-2xl font-semibold text-gray-800">LogoName</h1>
+    <h1 className="text-2xl font-semibold text-white">LogoName</h1>
     </div>
 );
 };
