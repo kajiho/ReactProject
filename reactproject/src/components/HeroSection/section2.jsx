@@ -33,9 +33,9 @@ const Section2 = () => {
     >
       {/* Overlay */}
       <div className="absolute inset-0 bg-gray-900 bg-opacity-80"></div>
-      
-      <div className="relative z-10 text-white p-8 w-full max-w-2xl">
-        <div className="mb-6">
+
+      <div className="relative z-10 text-white p-1 w-full h-full max-w-2xl">
+        <div className="mb-1">
           <span className="bg-green-600 text-white px-4 py-2 rounded-full text-sm font-semibold">
             Our Services
           </span>

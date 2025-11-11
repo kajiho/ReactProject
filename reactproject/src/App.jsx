@@ -2,7 +2,7 @@ import React from "react";
 
 import Header from "./components/Header/header.jsx";
 import logo from "./components/Header/logo.jsx";
-import Section1 from "./components/heroSection/section1.jsx";
+import Section1 from "./components/HeroSection/section1.jsx";
 import Section2 from "./components/heroSection/section2.jsx";
 import Footer from "./components/Footer/footer.jsx";
 

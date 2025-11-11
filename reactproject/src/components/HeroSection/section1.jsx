@@ -1,6 +1,6 @@
 import React from "react";
 
-const Section1 = () => {
+const App = () => {
   return (
     <div
       className="w-1/2 h-screen bg-cover bg-center flex items-center justify-center relative"
@@ -9,7 +9,7 @@ const Section1 = () => {
       }}
     >
       {/* Overlay */}
-      <div className="absolute inset-0 bg-black bg-opacity-40"></div>
+      <div className="absolute inset-0 bg-gray-900 bg-opacity-80"></div>
       
       <div className="relative z-10 text-white p-8 max-w-md">
         <div className="mb-6">
@@ -55,4 +55,4 @@ const Section1 = () => {
   );
 };
 
-export default Section1;
+export default App;
